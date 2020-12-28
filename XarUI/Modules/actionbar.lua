@@ -295,8 +295,8 @@ m.optionsTable = {
 		set = function(info, val) m:EnableExtraButtons(val) end,
 	},
 	fuliButtons = {
-		name = "fuli的动作条",
-		desc = "将右边左侧动作条移动到中间位置",
+		name = "fuli's buttons",
+		desc = "Moves the MultiBarLeftButton on the ActionButton.",
 		type = "toggle",
 		width = "full",
 		order = 6,
