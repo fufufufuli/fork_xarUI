@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: |cff00c0ffXarUI|r
+## Author: Stako
+## Version: 1.5
+## SavedVariables: XarUIDB
+
+XarUI.xml
